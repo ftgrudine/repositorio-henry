@@ -1,0 +1,25 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. 
+Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Variables
+Strings
+Funciones (argumentos, return)
+Declaraciones if
+Valores booleanos (true, false)
+
+- Variables: Son formas de guardar algo para recuperarlo despues. A estas variables, podemos asignarles un tipo de dato y un valor
+La forma más común de declarar una variable es usando la palabra var
+
+- Strings: Son un tipo de dato que se representa en forma de bloque de texto y se define siempre entre 'comillas' 
+- Funciones: Son tipos de objetos que nos permiten "jugar" con las variables que ya tenemos, es decir, calcularlas, cambiarlas, etc.
+La forma mas común de construir una función es utilizando el formato: function nombredelafuncion() {}, donde function es una palabra 
+clave que le dice al programa que se trata de una función, nombredelafuncion es el el nombre que le queremos dar a esa función, luego 
+un parentesis abierto y cerrado y finalmente corchetes entre los cuales se incluira nuestro codigo a ejecutar
+Tambien podemos comenzar a pasarle argumentos, que sería agregar una variable a la función entre parentesis. 
+El return es la unica forma en que los datos "Escapan" de una función. Es lo que te devuelve la función. 
+
+- Declaraciones If: 
+La declaración If es como agregar una condición para que la función verifique si algo es true o no. 
+
+- Valores Booleanos: Son un tipo de dato binario, que solo tiene dos opciones, si o no, verdadero (true) o falso (false)
+Sus unicos valores posibles son true o false
